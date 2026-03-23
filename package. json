@@ -1,0 +1,12 @@
+{
+  "name": "voltaria-nexus",
+  "version": "1.0.0",
+  "description": "Cold and savage WhatsApp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0"
+  }
+}
