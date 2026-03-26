@@ -24,9 +24,4 @@
 - Moderation  
 - Fun commands  
 
----
-
-## Setup
-```bash
-npm install
-node index.js
+--
